@@ -10,6 +10,7 @@
   <img align="center" alt="FE-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="FE-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="FE-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="FE-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scss/scss-original.svg">
 </div>
   
   ##
