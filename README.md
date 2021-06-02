@@ -15,7 +15,7 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/felipepaneque1/?locale=pt_BR" target="_blank">
+  <a href="https://www.linkedin.com/in/felipepaneque1/?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/FelipePaneque/FelipePaneque/blob/output/github-contribution-grid-snake.svg)
  
